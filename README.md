@@ -18,39 +18,6 @@ I am passionate about offensive security, penetration testing, network infrastru
 - 🔬 **Researching**: Advanced Persistent Threats (APTs), Zero-Day Exploits, Active Directory Attacks, and Cloud Security.  
 - ⚙ **Programming**: Python, Bash, PowerShell, Assembly (x86/x64), and C for exploit development.  
 
----
-
-## **🔍 Cybersecurity & Red Teaming Skills**  
-
-### **🔴 Red Teaming & Offensive Security**  
-✅ Adversary Simulation (MITRE ATT&CK Framework)  
-✅ Active Directory Exploitation (Kerberoasting, Pass-the-Hash, DC Sync)  
-✅ Social Engineering & OSINT Reconnaissance  
-✅ Exploit Development (Buffer Overflow, Shellcode Injection, ROP Chains)  
-✅ Post-Exploitation Techniques (Lateral Movement, Privilege Escalation)  
-✅ Red Team Infrastructure Setup (C2 Frameworks like Cobalt Strike, Mythic)  
-
-### **🛡 Defensive Security & Threat Intelligence**  
-✅ SIEM & Log Analysis (Splunk, ELK Stack, Graylog)  
-✅ Threat Hunting & Indicator of Compromise (IoC) Analysis  
-✅ Incident Response & Digital Forensics (Memory, Disk, and Network Forensics)  
-✅ Malware Reverse Engineering (IDA Pro, Ghidra, x64dbg, Radare2)  
-✅ Network Traffic Analysis (Wireshark, Zeek, Suricata)  
-
-### **📡 Network & Cloud Security**  
-✅ Firewall Hardening & Intrusion Detection/Prevention (Snort, Suricata)  
-✅ Cloud Security (AWS, Azure, GCP - IAM Misconfigurations, Cloud Hacking)  
-✅ VPN & Proxy Analysis (Tor, I2P, Shadowsocks)  
-✅ Wireless Penetration Testing (Aircrack-ng, Wifite, Bluetooth Hacking)  
-
-### **⚙ Programming & Automation**  
-✅ Python for Cybersecurity (Offensive Tools, Payloads, Automation)  
-✅ Bash & PowerShell Scripting (Red Team Automation, Windows AD Attacks)  
-✅ C & Assembly (Writing Shellcodes, Exploit Development)  
-✅ DevSecOps & CI/CD Security (Docker, Kubernetes, Security Pipeline Hardening)  
-
----
-
 ## **📜 Certifications & Achievements**  
 
 - 🎓 **[CCNP Security](https://www.cisco.com/)** | **[CCNP Enterprise](https://www.cisco.com/)** | **[CCNA](https://www.cisco.com/)**  
