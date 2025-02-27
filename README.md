@@ -41,18 +41,3 @@ I am passionate about **offensive security, penetration testing, network infrast
 💼 LinkedIn: [linkedin.com/in/sohrab-kaghazian](https://linkedin.com/in/sohrab-kaghazian)  
 
 ---
-
-## **📊 GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&margin-w=10&margin-h=10" width="700"/>
-</p>
-
----
-
-<h3 align="center">🚀 "Hack The Planet!" – Stay Curious, Stay Secure! 🛡</h3>
