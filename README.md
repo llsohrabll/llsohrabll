@@ -18,8 +18,6 @@ I am passionate about **offensive security, penetration testing, network infrast
 - 🛡 **Expertise**: Red Teaming, Ethical Hacking, Digital Forensics, Network Security, Threat Hunting.  
 - 🎯 **Focus Areas**: Adversary Simulation, OSINT Recon, Malware Analysis, Exploit Development.  
 - ⚙ **Programming**: Python, Bash, PowerShell, Assembly (x86/x64), and C for exploit development.  
-- 🛠 **Researching**: Active Directory Attacks, Advanced Persistence Techniques, Privilege Escalation.  
-
 ---
 
 ## **📬 Connect With Me**  
