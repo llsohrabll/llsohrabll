@@ -1,33 +1,45 @@
-<h1 align="center">Welcome to My Cybersecurity & Red Teaming Hub! 👾🔐</h1>  
+<h1 align="center">🔐 Welcome to My Cybersecurity & Red Teaming Hub! 👾</h1>  
+
 <p align="center">
   <img src="https://img.shields.io/badge/🔴-Red Teaming-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻-Offensive Security-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🖧-Network Security-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Ethical Hacking-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## **🔹 About Me**  
-🚀 **Cybersecurity Enthusiast | Red Team Operator | Python Developer | Network Engineer**  
+## **🚀 About Me**  
+👋 **Cybersecurity Enthusiast | Red Team Operator | Python Developer | Network Engineer**  
 
-I am passionate about offensive security, penetration testing, network infrastructure, and forensic analysis. I constantly explore the latest cyber threats, exploit development, and adversary simulation techniques.  
+I am passionate about **offensive security, penetration testing, network infrastructure, and forensic analysis**. Constantly exploring the latest cyber threats, exploit development, and adversary simulation techniques.  
 
-- 🛡 **Expertise**: Cybersecurity, Red Teaming, Ethical Hacking, Digital Forensics, Network Security, and Threat Hunting.  
+💡 **What I Do:**  
+- 🛡 **Expertise**: Red Teaming, Ethical Hacking, Digital Forensics, Network Security, Threat Hunting.  
+- 🎯 **Focus Areas**: Adversary Simulation, OSINT Recon, Malware Analysis, Exploit Development.  
 - ⚙ **Programming**: Python, Bash, PowerShell, Assembly (x86/x64), and C for exploit development.  
+- 🛠 **Researching**: Active Directory Attacks, Advanced Persistence Techniques, Privilege Escalation.  
+
+---
 
 ## **🛠 Tools & Technologies**  
 
-### **🔴 Red Team Tools**  
-- **C2 Frameworks**: Cobalt Strike, Mythic, Empire, Sliver  
-- **Exploitation**: Metasploit, Exploit-DB, Rubeus, Mimikatz  
-- **OSINT**: Maltego, theHarvester, SpiderFoot, Shodan, FOCA  
+### **🔴 Red Team Arsenal**  
+- **C2 Frameworks**: 🏴‍☠️ Cobalt Strike | Mythic | Empire | Sliver  
+- **Exploitation**: 🦠 Metasploit | Exploit-DB | Rubeus | Mimikatz  
+- **OSINT & Recon**: 🌍 Maltego | theHarvester | SpiderFoot | Shodan | FOCA  
 
-### **📡 Network Security**  
-- **Network Analysis**: Nmap, Masscan, Netcat, Tcpdump   
+### **🖧 Network & Security Tools**  
+- **Network Analysis**: 🌐 Nmap | Masscan | Netcat | Tcpdump  
+- **Forensics & Reverse Engineering**: 🕵️ Volatility | Wireshark | Autopsy | x64dbg  
+- **Threat Detection & SIEM**: 🔍 Splunk | ELK Stack | Security Onion  
+
+---
 
 ## **📬 Connect With Me**  
 
-🔗 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/sohrab-kaghazian)  
+💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/sohrab-kaghazian)  
+
 ---
 
 ## **📊 GitHub Stats**  
@@ -43,4 +55,4 @@ I am passionate about offensive security, penetration testing, network infrastru
 
 ---
 
-🚀 **"Hack The Planet!" – Stay Curious, Stay Secure!** 🛡  
+<h3 align="center">🚀 "Hack The Planet!" – Stay Curious, Stay Secure! 🛡</h3>
