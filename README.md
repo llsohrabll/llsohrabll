@@ -38,7 +38,7 @@ I am passionate about **offensive security, penetration testing, network infrast
 
 ## **📬 Connect With Me**  
 
-💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/sohrab-kaghazian)  
+💼 LinkedIn: [linkedin.com/in/sohrab-kaghazian](https://linkedin.com/in/sohrab-kaghazian)  
 
 ---
 
