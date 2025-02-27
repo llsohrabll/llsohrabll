@@ -22,20 +22,6 @@ I am passionate about **offensive security, penetration testing, network infrast
 
 ---
 
-## **🛠 Tools & Technologies**  
-
-### **🔴 Red Team Arsenal**  
-- **C2 Frameworks**: 🏴‍☠️ Cobalt Strike | Mythic | Empire | Sliver  
-- **Exploitation**: 🦠 Metasploit | Exploit-DB | Rubeus | Mimikatz  
-- **OSINT & Recon**: 🌍 Maltego | theHarvester | SpiderFoot | Shodan | FOCA  
-
-### **🖧 Network & Security Tools**  
-- **Network Analysis**: 🌐 Nmap | Masscan | Netcat | Tcpdump  
-- **Forensics & Reverse Engineering**: 🕵️ Volatility | Wireshark | Autopsy | x64dbg  
-- **Threat Detection & SIEM**: 🔍 Splunk | ELK Stack | Security Onion  
-
----
-
 ## **📬 Connect With Me**  
 
 💼 LinkedIn: [linkedin.com/in/sohrab-kaghazian](https://linkedin.com/in/sohrab-kaghazian)  
