@@ -1,5 +1,5 @@
 ## **About Me**  
-**Cybersecurity Enthusiast | Red Team Operator | Network Engineer**  
+**Cybersecurity Enthusiast**  
 
 I am passionate about **offensive security, penetration testing, network infrastructure, and forensic analysis**. Constantly exploring the latest cyber threats, exploit development, and adversary simulation techniques.  
 
